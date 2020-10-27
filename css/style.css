@@ -1,0 +1,265 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sitebar {
+    background-color: #ffffff;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.photo { 
+    width: 370px;
+    margin-left: 40px;
+}
+
+.about-me-contener {
+    padding-top: 47px;
+    padding-bottom: 110px;
+    padding-right: 90px;
+    padding-left: 90px;
+}
+
+.contacts-contaner {
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px; 
+    color: #ffffff;
+    margin-bottom: 20px;
+    background-color:#a06fb8;
+    width: 390px;
+}
+
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+
+}
+
+.contacts-title-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px; 
+    color: #333232;
+    margin-right: 10px;
+}
+
+.tech-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+    background-color: #a06fb8;
+    width: 390px;
+}
+
+.tech-contener {
+    margin-left: 40px;
+    margin-top: 35px;
+    margin-right: 40px;
+}
+
+.tech-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#a06fb8;
+    margin-left: 15px;
+}
+
+.tech-skil-color {
+    color: #595959;
+}
+
+.soft-contener {
+    margin-left: 40px;
+    margin-top: 35px;
+    margin-right: 40px;
+}
+
+.soft-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+    background-color:#a06fb8;
+    width: 390px;
+}
+
+.soft-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a06fb8;
+    margin-left: 15px;  
+}
+
+.soft-skil-color {
+    color: #595959;
+}
+
+.profession {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+ 
+}
+
+.name {
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+.sname {
+    color: #a06fb8;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+}
+
+.info-contener {
+    margin-bottom: 23px;
+}
+
+.all-title {
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.cours-link {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 17px;
+}
+
+.tech-name {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 15px;
+}
+
+.project-item {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #a06fb8;
+    margin-left: 17px;
+    margin-bottom: 15px;
+}
+
+.dots {
+    color: #595959;
+    width: 318px;
+    height: 50px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.course-contener {
+    margin-bottom: 33px;
+}
+
+.work-profetions {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.work-compani {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #a06fb8;
+    margin-bottom: 12px;
+}
+
+.work-opit {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+    margin-bottom: 12px;
+}
+
+.work-items {
+    color: #a06fb8;
+    margin-left: 17px;
+    margin-bottom: 25px;
+    margin-top: 12px;
+}
+
+.work-biss {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+
+.work-contener {
+    margin-bottom: 33px;
+}
+
+.vyz {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #a06fb8;
+    margin-bottom: 12px;
+}
+
+.ficultet {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.icon-style {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    margin-top: 9px;
+}
